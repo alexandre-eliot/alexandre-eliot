@@ -1,9 +1,9 @@
-# 🤠 Alexandre ELIOT
+# 🤠 Hello there !
 
 **`Software engineer`**
 
-Hi there 👋
 👨‍💻 I am a knowledge thursty guy whose life's purpose is to explore as much as our world and time can offer.
+
 I currently work at [Sinap's Conseils](https://www.sinaps-conseils.com/) where I am helping to build and design an amazing app called [REZALL](https://www.rezall.io/).
 
 ### 🧰 Languages and Tools
@@ -22,4 +22,4 @@ I currently work at [Sinap's Conseils](https://www.sinaps-conseils.com/) where I
 
 ### 🌐 Socials
 
-[![Linkedin Badge](https://img.shields.io/badge/alexandre&hyphen;eliot-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-eliot/)](https://www.linkedin.com/in/alexandre-eliot/) [![GitLab Badge](https://img.shields.io/badge/alexandre&hyphen;eliot-grey?style=flat&logo=GitLab&link=https://gitlab.com/alexandre-eliot/)](https://gitlab.com/alexandre-eliot/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-eliot/)](https://www.linkedin.com/in/alexandre-eliot/) [![GitLab Badge](https://img.shields.io/badge/Gitlab-grey?style=flat&logo=GitLab&link=https://gitlab.com/alexandre-eliot/)](https://gitlab.com/alexandre-eliot/)
