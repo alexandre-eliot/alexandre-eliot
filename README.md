@@ -4,7 +4,7 @@
 
 Hi there 👋
 👨‍💻 I am a knowledge thursty guy whose life's purpose is to explore as much as our world and time can offer.
-I currently work at [Sinap's Conseils](www.sinaps-conseils.com) where I am helping to build and design an amazing app called [EDEN](www.eden-networks.io).
+I currently work at [Sinap's Conseils](https://www.sinaps-conseils.com/) where I am helping to build and design an amazing app called [REZALL](https://www.rezall.io/).
 
 ### 🧰 Languages and Tools
 
