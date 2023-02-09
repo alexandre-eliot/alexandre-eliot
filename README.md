@@ -2,7 +2,7 @@
 
 ## 🤠 About me
 
-### ✨ What I especially love
+### ✨ Favorite interests
 
 - 🌱 Learning new skills
 - 🧭 Exploring new places
