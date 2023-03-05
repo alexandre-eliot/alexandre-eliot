@@ -34,3 +34,7 @@ I currently work at [Sinap's Conseils](https://www.sinaps-conseils.com/) as a **
 
 - 🎨 Photoshop
 - 🖌️ Illustrator
+
+### <img alt="Gitlab Icon" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /><span>&#32;</span>Gitlab statistics
+
+[![My Gitlab statitics](https://alexandre-eliot.npkn.net/gitlab-stats?username=alexandre-eliot)](https://gitlab/alexandre-eliot)
