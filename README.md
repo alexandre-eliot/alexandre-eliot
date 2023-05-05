@@ -10,7 +10,7 @@
 
 ### 👨🏻‍💻 Work
 
-I currently work at [Sinap's Conseils](https://www.sinaps-conseils.com/) as a **Software engineer** where I help to build and design an amazing app called [REZALL](https://www.rezall.io/)
+I am a **Software engineer** with a great interest in **cyber security**
 
 ### 🛠️ Languages and Tools
 
