@@ -10,7 +10,7 @@
 
 ### 👨🏻‍💻 Work
 
-I am a **Software engineer** with a great interest in **cyber security**
+I am a **Software engineer** and a **cyber security** enthusiast !
 
 ### 🛠️ Languages and Tools
 
