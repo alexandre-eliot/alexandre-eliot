@@ -34,7 +34,3 @@ I am a **Software engineer** and a **cyber security** enthusiast !
 
 - 🎨 Photoshop
 - 🖌️ Illustrator
-
-### <img alt="Gitlab Icon" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /><span>&#32;</span>Gitlab statistics
-
-[![My Gitlab statitics](https://alexandre-eliot.npkn.net/gitlab-stats?username=alexandre-eliot&custom_title=alexandre-eliot)](https://gitlab.com/alexandre-eliot)
