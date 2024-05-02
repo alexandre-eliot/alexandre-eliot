@@ -30,7 +30,7 @@ I am a **Software engineer** and a **cyber security** enthusiast !
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-eliot/)](https://www.linkedin.com/in/alexandre-eliot/) [![GitLab Badge](https://img.shields.io/badge/Gitlab-grey?style=flat&logo=GitLab&link=https://gitlab.com/alexandre-eliot/)](https://gitlab.com/alexandre-eliot/)
 
-### 🧑🏻‍🎨 Additional Skills
+### 🧑 Additional Skills
 
 - 🎨 Photoshop
 - 🖌️ Illustrator
