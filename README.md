@@ -30,6 +30,10 @@ I am a **Software engineer** and a **cyber security** enthusiast !
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-eliot/)](https://www.linkedin.com/in/alexandre-eliot/) [![GitLab Badge](https://img.shields.io/badge/Gitlab-grey?style=flat&logo=GitLab&link=https://gitlab.com/alexandre-eliot/)](https://gitlab.com/alexandre-eliot/)
 
+### 🧠 Technical Skills Training
+
+[![Leetcode Badge](https://img.shields.io/badge/My_Leetcode-0c0c0c?style=flat&logo=Leetcode&link=https://leetcode.com/u/alexandre-eliot/)](https://leetcode.com/u/alexandre-eliot/) [![Leetcode Badge](https://img.shields.io/badge/My_Codingame-252e38?style=flat&logo=Codingame&link=https://www.codingame.com/profile/b0ac67d28857bfc1c8aa3a8fae4171db8660875/)](https://www.codingame.com/profile/b0ac67d28857bfc1c8aa3a8fae4171db8660875/)
+
 ### 🧑 Additional Skills
 
 - 🎨 Photoshop
